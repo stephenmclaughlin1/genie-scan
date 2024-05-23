@@ -5,7 +5,7 @@
       {
         "appID": "Z9YC7QRXP6.com.cjpa.barcode.app",
         "paths": [
-          "/product/*"
+          "/*"
         ]
       }
     ]
